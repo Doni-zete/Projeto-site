@@ -19,7 +19,7 @@ img.lado {
 
 h2{
     font-size: 1.5em;
-    color: blueviolet;
+    color: red;
 }
 
 
@@ -27,7 +27,7 @@ h2{
 main {
 
     background-color: #00BFFF ;
-    width: 7000px;
+    width: 2000px;
     margin: auto;
     padding:10px;
     box-shadow:3px 3px 5px rgb(24, 19, 19) ;

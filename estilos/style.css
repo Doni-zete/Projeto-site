@@ -1,6 +1,6 @@
 *{
     font-size: arial, helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 10px;
 }
 
 body {
@@ -27,7 +27,7 @@ h2{
 main {
 
     background-color: #00BFFF ;
-    width: 500px;
+    width: 7000px;
     margin: auto;
     padding:10px;
     box-shadow:3px 3px 5px rgb(24, 19, 19) ;

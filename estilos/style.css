@@ -1,6 +1,6 @@
 *{
     font-size: arial, helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 
 h1{
     font-size: 1.5em;
-    color: rgb(43, 226, 67);
+    color: seashell;
 }
 
 img.lado {
@@ -19,7 +19,7 @@ img.lado {
 
 h2{
     font-size: 1.5em;
-    color: red;
+    color: slategrey;
 }
 
 
@@ -27,7 +27,7 @@ h2{
 main {
 
     background-color: #00BFFF ;
-    width: 2000px;
+    width: 580px;
     margin: auto;
     padding:10px;
     box-shadow:3px 3px 5px rgb(24, 19, 19) ;
